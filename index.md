@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Vision and Mission
+We get people together that like to play with technology and tinker with DIY projects.
+We are building a place and a community for people to...
 
-You can use the [editor on GitHub](https://github.com/MakerSpaceSDG/MakerSpaceSDG.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* play
+* learn
+* tinker
+* innovate
+* make friends
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information
+* You'll find the most up-to-date information at our [Wiki](https://github.com/MakerSpaceSDG/MakerSpace/wiki).
+* If you want to get involved [drop us a line](mailto:peter.rautek@kaust.edu.sa).
+* If you want to know what we are working on, or request something the [issue tracker](https://github.com/MakerSpaceSDG/MakerSpace/issues) might be the right thing for you.
 
-### Markdown
+## Social Media
+* [Website: MakerSpaceSDG.com](https://MakerSpaceSDG.com)
+* [Facebook Page @MakerSpaceSDG](https://www.facebook.com/MakerSpaceSDG/)
+* [Mailing List Subscription](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
+<dl>
+  <dt>Location</dt>
+  <dd>Maker Space SDG<br>
+  Building 24<br>
+  Innovation Cluster<br>
+  Thuwal 23955-6900<br>
+  Saudi Arabia</dd>
+  <dt>Phone</dt>
+  <dd>Peter:  +966544700776</dd>
+</dl>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MakerSpaceSDG/MakerSpaceSDG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Acknowledgements
+The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST Schools.
