@@ -1,3 +1,9 @@
+## News
+
+Registration to the Design for KAUST Workshop Kick Off (March 14) is open!
+It'll only take 5 seconds to register...
+[Click here to register](https://goo.gl/forms/HOGmUpBtKyifZvno1)
+
 ## Vision and Mission
 We get people together that like to play with technology and tinker with DIY projects.
 We are building a place and a community for people to...
@@ -13,10 +19,10 @@ We are building a place and a community for people to...
 * If you want to get involved [drop us a line](mailto:peter.rautek@kaust.edu.sa).
 * If you want to know what we are working on, or request something the [issue tracker](https://github.com/MakerSpaceSDG/MakerSpace/issues) might be the right thing for you.
 
-## Social Media
+## Stay in touch
 * [Website: MakerSpaceSDG.com](https://MakerSpaceSDG.com)
-* [Facebook Page @MakerSpaceSDG](https://www.facebook.com/MakerSpaceSDG/)
-* [Mailing List Subscription](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
+* [Like our Facebook Page @MakerSpaceSDG](https://www.facebook.com/MakerSpaceSDG/)
+* [Subscribe to our mailing list](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
 
 ## Contact
 
