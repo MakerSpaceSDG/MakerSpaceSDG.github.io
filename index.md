@@ -26,16 +26,12 @@ We are building a place and a community for people to...
 
 ## Contact
 
-<dl>
-  <dt>Location</dt>
-  <dd>Maker Space SDG<br>
-  Building 24<br>
-  Innovation Cluster<br>
-  Thuwal 23955-6900<br>
-  Saudi Arabia</dd>
-  <dt>Phone</dt>
-  <dd>Peter:  +966544700776</dd>
-</dl>
+Maker Space SDG
+Innovation Cluster, 24 Unity Blvd
+King Abdullah University of Science and Technology
+Thuwal, Saudi Arabia
+info@MakerSpaceSDG.com
++966544700776
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1355.7676530211224!2d39.10714552353301!3d22.30635509114158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf3adec055d62032a!2sMaker+Space!5e0!3m2!1sen!2s!4v1488454545564" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
