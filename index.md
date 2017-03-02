@@ -1,6 +1,6 @@
 ## News
 
-Registration to the Design for KAUST Workshop Kick Off (March 14) is open!
+Registration to the Design for KAUST Workshop Kick Off (March 14) is open!  
 It'll only take 5 seconds to register...
 [Click here to register](https://goo.gl/forms/HOGmUpBtKyifZvno1)
 
@@ -29,7 +29,7 @@ We are building a place and a community for people to...
 Maker Space SDG  
 Innovation Cluster, 24 Unity Blvd  
 King Abdullah University of Science and Technology  
-Thuwal, Saudi Arabia  
+Thuwal, 23955, Saudi Arabia  
 info@MakerSpaceSDG.com  
 +966544700776
 
