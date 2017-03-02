@@ -26,6 +26,8 @@ We are building a place and a community for people to...
 
 ## Contact
 
+[Google Map](https://drive.google.com/open?id=1-n_qZ6_pBugL6eYdSVHe3uDVEhU&usp=sharing)
+
 <dl>
   <dt>Location</dt>
   <dd>Maker Space SDG<br>
@@ -38,4 +40,4 @@ We are building a place and a community for people to...
 </dl>
 
 ## Acknowledgements
-The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST Schools.
+The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST School.
