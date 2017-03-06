@@ -26,6 +26,8 @@ April 11 to May 30: Workshop series
 
 June, 2017: Final event and announcement of Round 2 awardees
 
+Checkout some cool project ideas [here](https://www.instructables.com/id/MakerSpaceSDG/)
+
 [Register Now!](https://goo.gl/forms/HOGmUpBtKyifZvno1)
 
 ## Vision and Mission
