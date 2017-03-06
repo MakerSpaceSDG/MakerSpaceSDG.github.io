@@ -16,7 +16,7 @@ March 14, 6:30pm: Kick-off Event
 Presentation of competition rules and workshop format
 Ideation, meet and greet
 
-March 21, 6:30pm: Idea exchange and team formation
+March 21, 6:30pm: Idea exchange and team formation (yes, you don't need a team to register)
 
 April 9: Round 1 proposal submission deadline
 
@@ -26,7 +26,7 @@ April 11 to May 30: Workshop series
 
 June, 2017: Final event and announcement of Round 2 awardees
 
-Checkout some cool project ideas [here](https://www.instructables.com/id/MakerSpaceSDG/)
+Checkout some cool project ideas [here](https://www.instructables.com/id/MakerSpaceSDG/)!
 
 [Register Now!](https://goo.gl/forms/HOGmUpBtKyifZvno1)
 
