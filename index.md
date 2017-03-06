@@ -26,6 +26,8 @@ April 11 to May 30: Workshop series
 
 June, 2017: Final event and announcement of Round 2 awardees
 
+[Register Now!](https://goo.gl/forms/HOGmUpBtKyifZvno1)
+
 ## Vision and Mission
 We get people together that like to play with technology and tinker with DIY projects.
 We are building a place and a community for people to...
