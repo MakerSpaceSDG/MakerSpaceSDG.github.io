@@ -1,8 +1,8 @@
 ## News
 
-Registration to the Design for KAUST Workshop Kick Off (March 14) is open!  
-It'll only take 5 seconds to register...
-[Click here to register](https://goo.gl/forms/HOGmUpBtKyifZvno1)
+Design for KAUST Project Registration: https://goo.gl/forms/KitPCIlGvNsKEsF33
+Rules of Design for KAUST: https://docs.google.com/document/u/1/d/1YEoWwWQM38QiKTkt1CuswnlyBaUTiGKCdwMnGWfXPa0/pub
+Terms and Conditions of Maker Space SDG: https://docs.google.com/document/d/13Aqzzs59fx4AZ-dtumXJrJ_JwHaht-6722UAekIZQpE/pub
 
 ## Local Impact Award - Design for KAUST
 The Maker Space self-directed group (SDG) is proud to announce the first "Design for KAUST" workshop organized in collaboration with Residential Maintenance Services. We are looking for solutions that use technology (micro-controllers, Internet of Things, sensors, etc.) to improve our lives. We are especially interested in solutions that save energy for residential and facility buildings.
