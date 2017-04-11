@@ -1,6 +1,6 @@
 ## News
 
-Design for KAUST Project Registration [here](https://goo.gl/forms/KitPCIlGvNsKEsF33)  
+Design for KAUST Procurement Spreadsheet [here](https://docs.google.com/spreadsheets/d/1sJGQpXg7WBqHaicDDfuQaN0fjj0UT0SckBQCBeSEZhk/edit?usp=sharing)  
 Rules of Design for KAUST [here](https://docs.google.com/document/u/1/d/1YEoWwWQM38QiKTkt1CuswnlyBaUTiGKCdwMnGWfXPa0/pub)  
 Terms and Conditions of Maker Space SDG [here](https://docs.google.com/document/d/13Aqzzs59fx4AZ-dtumXJrJ_JwHaht-6722UAekIZQpE/pub)  
 One-time user agreement [here](https://goo.gl/forms/L35JY1QrkRyWV6zv2)  
