@@ -28,6 +28,7 @@ We are building a place and a community for people to...
 ## Contact
 
 Maker Space SDG  
+Building 24
 Innovation Cluster, 24 Unity Blvd  
 King Abdullah University of Science and Technology  
 Thuwal, 23955, Saudi Arabia  
