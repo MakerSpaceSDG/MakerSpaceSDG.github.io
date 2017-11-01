@@ -1,6 +1,8 @@
 ## News
-* We are looking for makers to help with our booth at the community open day and artisan fair.
-* Deadline for Design for KAUST is Sept., 14th.
+* Lean/Agile Meetups are happening at the maker space once a month. Interested in "Lean Startup" and Agile/Scrum? [Register for the meetups](https://www.meetup.com/Innovation-Study-Group/).
+
+* Our "Design for KAUST" workshop is over. Read more about the workshop and the winners:
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMakerSpaceSDG%2Fposts%2F451136695279822&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## Vision and Mission
 We get people together that like to play with technology and tinker with DIY projects.
@@ -9,16 +11,16 @@ We are building a place and a community for people to...
 * play
 * learn
 * tinker
-* innovate
+* innovate and
 * make friends
 
 ## Information
-* You'll find the most up-to-date information at our [Wiki](https://github.com/MakerSpaceSDG/MakerSpace/wiki).
-* If you want to get involved [drop us a line](mailto:peter.rautek@kaust.edu.sa).
+* You'll find information about the maker space at our internal [Wiki](https://github.com/MakerSpaceSDG/MakerSpace/wiki).
+* If you want to get involved [drop us a line](mailto:hello@makerspacesdg.com).
 * If you want to know what we are working on, or request something the [issue tracker](https://github.com/MakerSpaceSDG/MakerSpace/issues) might be the right thing for you.
 
 ## Stay in touch
-* [Website: MakerSpaceSDG.com](https://MakerSpaceSDG.com)
+* [Website: MakerSpaceSDG.com](http://MakerSpaceSDG.com)
 * [Like our Facebook Page @MakerSpaceSDG](https://www.facebook.com/MakerSpaceSDG/)
 * [Subscribe to our mailing list](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
 
@@ -32,33 +34,6 @@ hello@MakerSpaceSDG.com
 +966544700776
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1355.7676530211224!2d39.10714552353301!3d22.30635509114158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf3adec055d62032a!2sMaker+Space!5e0!3m2!1sen!2s!4v1488454545564" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## D4K - Design For KAUST
-
-Design for KAUST Procurement Spreadsheet [here](https://docs.google.com/spreadsheets/d/1sJGQpXg7WBqHaicDDfuQaN0fjj0UT0SckBQCBeSEZhk/edit?usp=sharing)  
-Rules of Design for KAUST [here](https://docs.google.com/document/u/1/d/1YEoWwWQM38QiKTkt1CuswnlyBaUTiGKCdwMnGWfXPa0/pub)  
-Terms and Conditions of Maker Space SDG [here](https://docs.google.com/document/d/13Aqzzs59fx4AZ-dtumXJrJ_JwHaht-6722UAekIZQpE/pub)  
-One-time user agreement [here](https://goo.gl/forms/L35JY1QrkRyWV6zv2)  
-The workshop part of D4K has ended. Deadline for all projects is Sept., 14.
-
-### Timeline
-March 14, 6:30pm: Kick-off Event
-Presentation of competition rules and workshop format
-Ideation, meet and greet
-
-March 21, 6:30pm: Idea exchange and team formation (yes, you don't need a team to register)
-
-April 9: Round 1 proposal submission deadline
-
-April 11: Announcement of Round 1 successful entries (up to 10 teams will be selected and receive small project budget for prototyping)
-
-April 11 to May 30: Workshop series
-
-June, 2017: Final event and announcement of Round 2 awardees
-
-September, 2017: Final 
-
-Checkout some cool project ideas [here](https://www.instructables.com/id/MakerSpaceSDG/)!
 
 
 
