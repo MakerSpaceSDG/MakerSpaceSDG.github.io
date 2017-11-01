@@ -14,7 +14,8 @@ We are building a place and a community for people to...
 * innovate and
 * make friends
 
-## Information
+## Information and Opening Hours
+* During the semester we open on Tuesdays starting 6:30pm. You can come to see the space and meet. Ideally you already have a project in mind. We are open for a minimum of 2 hours.
 * You'll find information about the maker space at our internal [Wiki](https://github.com/MakerSpaceSDG/MakerSpace/wiki).
 * If you want to get involved [drop us a line](mailto:hello@makerspacesdg.com).
 * If you want to know what we are working on, or request something the [issue tracker](https://github.com/MakerSpaceSDG/MakerSpace/issues) might be the right thing for you.
@@ -33,9 +34,10 @@ Thuwal, 23955, Saudi Arabia
 hello@MakerSpaceSDG.com  
 +966544700776
 
+## How to Find the Space
+Once you entered building 24, take a right, then a left, pass by coffee bean and follow the long corridor until you see the maker space on your right.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1355.7676530211224!2d39.10714552353301!3d22.30635509114158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf3adec055d62032a!2sMaker+Space!5e0!3m2!1sen!2s!4v1488454545564" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 
 ## Acknowledgements
 The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST School.
