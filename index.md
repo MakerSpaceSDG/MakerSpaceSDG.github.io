@@ -1,6 +1,6 @@
 ## News
+* We are open every Tuesday 6:30pm
 * Lean/Agile Meetups are happening at the maker space once a month. Interested in "Lean Startup" and Agile/Scrum? [Register for the meetups](https://www.meetup.com/Innovation-Study-Group/).
-
 * Our "Design for KAUST" workshop is over. Read more about the workshop and the winners:
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMakerSpaceSDG%2Fposts%2F451136695279822&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
