@@ -1,3 +1,4 @@
+<body>
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -65,3 +66,4 @@ Once you entered building 24, take a right, then a left, pass by coffee bean and
 
 ## Acknowledgements
 The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST School.
+</body>
