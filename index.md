@@ -1,27 +1,3 @@
-<body>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId            : '2018389535046416',
-      autoLogAppEvents : true,
-      xfbml            : true,
-      version          : 'v2.11'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<div class="fb-customerchat"
- page_id="126758287717666"
- ref="source=homepage"
- minimized="false">
-</div>
 ## News
 * We are open every Tuesday 6:30pm
 * Lean/Agile Meetups are happening at the maker space once a month. Interested in "Lean Startup" and Agile/Scrum? [Register for the meetups](https://www.meetup.com/Innovation-Study-Group/).
@@ -66,4 +42,27 @@ Once you entered building 24, take a right, then a left, pass by coffee bean and
 
 ## Acknowledgements
 The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST School.
-</body>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '2018389535046416',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.11'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-customerchat"
+ page_id="126758287717666"
+ ref="source=homepage"
+ minimized="false">
+</div>
